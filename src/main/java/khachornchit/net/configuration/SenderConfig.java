@@ -1,10 +1,10 @@
-package pluto.solutions.configuration;
+package khachornchit.net.configuration;
 
 import org.springframework.amqp.core.TopicExchange;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import pluto.solutions.model.SenderMessage;
+import khachornchit.net.model.SenderMessage;
 
 @Configuration
 public class SenderConfig {

@@ -1,4 +1,4 @@
-package pluto.solutions.model;
+package khachornchit.net.model;
 
 public class SmsCommand {
 

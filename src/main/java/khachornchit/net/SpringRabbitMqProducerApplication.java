@@ -1,4 +1,4 @@
-package pluto.solutions;
+package khachornchit.net;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

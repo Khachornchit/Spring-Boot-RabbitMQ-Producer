@@ -1,4 +1,4 @@
-package pluto.solutions.model;
+package khachornchit.net.model;
 
 import org.springframework.amqp.core.TopicExchange;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;

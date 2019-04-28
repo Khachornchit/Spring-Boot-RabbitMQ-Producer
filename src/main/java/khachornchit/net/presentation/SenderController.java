@@ -1,4 +1,4 @@
-package pluto.solutions.presentation;
+package khachornchit.net.presentation;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.google.gson.Gson;
 
-import pluto.solutions.model.SenderMessage;
-import pluto.solutions.model.SmsCommand;
+import khachornchit.net.model.SenderMessage;
+import khachornchit.net.model.SmsCommand;
 
 @RestController
 @RequestMapping("/sender")
