@@ -1,2 +1,2 @@
-# Spring RabbitMQ
-Example of Spring Boot development with RabbitMQ. 
+# Java Spring Boot Development
+Spring Boot development with RabbitMQ integration
